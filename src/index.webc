@@ -1,0 +1,5 @@
+---
+layout: page.webc
+---
+
+<test-component-2></test-component-2>
